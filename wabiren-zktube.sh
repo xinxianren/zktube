@@ -116,9 +116,9 @@ while :; do
 	echo
 	echo "版本号：$_version"
 	echo
-	echo "官方网址：https://www.wabiren.com"
+	echo "官方网址：https://www.xinxianren.com"
 	echo
-	echo "详细教程：https://www.yuque.com/wabiren/"
+	echo "详细教程：https://www.xinxianren.com"
 	echo
 	echo "注意：此脚本仅适用于Ubuntu环境！"
 	echo
